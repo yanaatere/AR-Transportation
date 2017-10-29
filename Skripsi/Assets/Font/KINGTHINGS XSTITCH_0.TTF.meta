@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 72506b595e969ec4ca7f422e3107f6ec
+timeCreated: 1496995202
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kingthings Xstitch
+  fontNames:
+  - Kingthings Xstitch
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
